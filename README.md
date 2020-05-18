@@ -1,2 +1,3 @@
 # hello-world
-This area will contain simple data analysis projects.
+
+Here, I am going to experiment with some code in Python.
